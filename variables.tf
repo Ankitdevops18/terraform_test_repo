@@ -26,4 +26,7 @@ variable "NATEIP" {
 variable "IGW" {
   
 }
+variable "ami" {
+  
+}
 
